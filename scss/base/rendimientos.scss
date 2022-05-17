@@ -93,3 +93,12 @@
 .disclaimer {
     display: none;
 }
+
+@media screen and (max-width: 490px) {
+    .padre {
+        display: block;
+    }
+    .aa {
+        width: 100%;
+    }
+} 
